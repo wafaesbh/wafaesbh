@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wafaesbh
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Magento 2
 
 
 <!---
